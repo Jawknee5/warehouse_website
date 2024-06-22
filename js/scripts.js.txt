@@ -1,0 +1,4 @@
+// scripts.js
+
+// Currently, there are no interactive elements. Add any JavaScript code here.
+
